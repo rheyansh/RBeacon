@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">RBeacon</string>
+    <string name="action_settings">Settings</string>
+    <string name="become_broadcaster">Become Broadcaster</string>
+    <string name="check_ranging_logs">Start ranging</string>
+    <string name="stop_ranging_logs">Stop ranging</string>
+
+</resources>
