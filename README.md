@@ -25,3 +25,10 @@ https://altbeacon.github.io/android-beacon-library/index.html
 
 # License
 RBeacon is available under the MIT license. See the LICENSE file for more info.
+
+## Other Libraries
+
+* [RBiometric](https://github.com/rheyansh/RBiometric):- Elegant and Easy-to-Use library for iOS Biometric (TouchId and FaceId) authentication.
+* [RPdfGenerator](https://github.com/rheyansh/RPdfGenerator):- A sample project to generate PDF file from data using itextpdf/itext7 library.
+* [RPicker](https://github.com/rheyansh/RPicker):- Elegant and Easy-to-Use Date and Options Picker.
+* [RFirebaseMessaging](https://github.com/rheyansh/RFirebaseMessaging):- Project provides basic idea and approach for building small social media application using firebase and implementing chat using Firebase.
